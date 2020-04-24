@@ -1,6 +1,6 @@
 import csv
 import argparse
-from decimal import Decimal, ROUND_HALF_UP
+from decimal import Decimal
 import simultaneous_alarms
 
 DEFAULT_DATA_FILEPATH = "sample_metrics_2019.csv"
