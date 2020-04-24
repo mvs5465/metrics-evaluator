@@ -2,7 +2,7 @@ import csv
 from decimal import Decimal
 
 def get_simultaneous_alarms(data_filepath, desired_metric_name, verbose_mode=False):
-    """Detect simultaneous alarms a complex number.
+    """Detect simultaneous alarms.
 
     Arguments:
     data_filepath -- path to metrics file
